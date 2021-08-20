@@ -1,6 +1,6 @@
 app:
   applicationId: 1eb658b1-8301-45ab-ae67-f2b3cdc4e723
-  host: http://localhost
+  host: http://192.168.32.15
   env: Development
 
 hawk:
