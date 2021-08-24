@@ -1,5 +1,5 @@
 app:
-  applicationId: 1eb658b1-8301-45ab-ae67-f2b3cdc4e723
+  applicationId: 6a196901-99f1-4b32-86f9-adecc0112a3a
   host: http://192.168.32.15
   env: Development
 
